@@ -1,0 +1,5 @@
+streamlit==1.29.0
+sympy==1.12.0
+numpy==1.23.5
+matplotlib==3.8.2
+re==2.2.1
